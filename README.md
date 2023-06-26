@@ -31,8 +31,8 @@
 4) Необходимо обработать ситуации, при которых какая-либо структура данных может быть переполнена.
 
 Вариант задания:<br>
-![image](https://github.com/wogusfer/SAOD/assets/100072041/dca0129e-7e40-4d41-bc94-ddbdae9a4a71)<br>
-![image](https://github.com/wogusfer/SAOD/assets/100072041/4b81e47e-c50d-4841-a240-cdf10c2bedcc)
+![image](https://github.com/wogusfer/SAOD/assets/100072041/7b6dadf0-2784-4b12-b008-3919b12bcd52)<br>
+![image](https://github.com/wogusfer/SAOD/assets/100072041/b580e007-4242-41b3-a3ab-1c8b0c30680d)
 
 <h3>Лабораторная работа №4</h3>
 
@@ -50,7 +50,7 @@
 9) в программе должен быть реализован алгоритм, обрабатывающий ситуации с переполнением хэш-таблицы
     
 Вариант задания:<br>
-![image](https://github.com/wogusfer/SAOD/assets/100072041/859638b9-9689-4d90-b6a4-6ed10eb67a63)
+![image](https://github.com/wogusfer/SAOD/assets/100072041/6c5f83ef-e8ad-4de8-a631-fe29957a7dc6)
 
 <h3>Лабораторная работа №5</h3>
 
@@ -62,7 +62,7 @@
 3) В программе должен быть реализован подсчет количества сравнений и перестановок, при осуществлении сортировки.
 
 Вариант задания:<br>
-![image](https://github.com/wogusfer/SAOD/assets/100072041/6ea3b58c-2402-44c0-82cd-deda068570b9)
+![image](https://github.com/wogusfer/SAOD/assets/100072041/d7628e67-5ae5-47e1-b461-15f59192a344)
 
 <h3>Лабораторная работа №6</h3>
 
@@ -77,7 +77,7 @@
 6) осуществлять операцию, заданную в таблице 6.
 
 Вариант задания:<br>
-![image](https://github.com/wogusfer/SAOD/assets/100072041/fb972e10-d5f4-404d-859c-ac539013269a)
+![image](https://github.com/wogusfer/SAOD/assets/100072041/5bf95fdb-80b0-4436-b5e3-f4487b799d2c)
 
 <h3>Лабораторная работа №7</h3>
 
@@ -86,5 +86,5 @@
 Задание на лабораторную работу: Разработать на языке программирования высокого уровня программу, которая должна выполнять функцию, в соответствии с вариантом задания. 
 
 Вариант задания: <br>
-![image](https://github.com/wogusfer/SAOD/assets/100072041/56206e48-112e-4ed3-b9b8-00d301c7ad5c) <br>
-![image](https://github.com/wogusfer/SAOD/assets/100072041/74516ef3-03d3-4795-9fe9-e9621cbd62a6)
+![image](https://github.com/wogusfer/SAOD/assets/100072041/df419c4c-4347-4aef-9737-cc22d370bd1c)<br>
+![image](https://github.com/wogusfer/SAOD/assets/100072041/fea042f2-7586-4536-b0a8-ad2937585f95)
